@@ -100,7 +100,7 @@ export function About() {
     subtitle: "당신의 전문성과 열정을 소개해주세요.",
     background: {"image":"","video":"","color":"","opacity":0.1},
     experienceCards: [],
-    skills: [{"icon":"star","title":"새 스킬","description":"스킬 설명dd"}],
+    skills: [],
     storyTitle: "나의 이야기",
     story: ["다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다."],
     storyImage: "",
