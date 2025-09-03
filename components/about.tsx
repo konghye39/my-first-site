@@ -99,7 +99,7 @@ export function About() {
     title: "소개",
     subtitle: "당신의 전문성과 열정을 소개해주세요.",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"briefcase","title":"새 경험","period":"2024","description":"설명을 입력하세요"}],
+    experienceCards: [],
     skills: [],
     storyTitle: "나의 이야기",
     story: ["저는 기술을 통해 사람들의 삶을 더 편리하고 의미 있게 만드는 일에 열정을 가지고 있습니다.","다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다."],
